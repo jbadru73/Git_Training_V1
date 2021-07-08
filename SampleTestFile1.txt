@@ -6,3 +6,4 @@ This is Sample File 1
 This is Sample File 1
 This is Comparison Lectuer
 
+This is Stash Lecture, Change in File 1
