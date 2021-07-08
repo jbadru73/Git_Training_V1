@@ -1,3 +1,8 @@
 This is Sample File 1
 
 Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. I
+
+This is Sample File 1
+This is Sample File 1
+This is Comparison Lectuer
+
